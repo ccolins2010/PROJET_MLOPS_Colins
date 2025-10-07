@@ -1,0 +1,7 @@
+{
+  "model": "Logistic Regression",
+  "roc_auc": 0.9999883933012768,
+  "pr_auc": 0.9999495671634833,
+  "brier": 0.004650069542532288,
+  "accuracy": 0.9955
+}
