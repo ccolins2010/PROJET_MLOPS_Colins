@@ -24,7 +24,7 @@ Trois modèles ont été entraînés et comparés ; le **meilleur** est **export
 
 ## 🧰 Technologies
 Python • Pandas • NumPy • scikit-learn • Matplotlib/Seaborn • Streamlit • *(MLflow recommandé)*  
-Déploiement : Streamlit Community Cloud (+ CI/CD GitHub Actions → Docker Hub)
+Déploiement : Streamlit Community Cloud (+ CI/CD GitHub Actions → Docker Hub et AWS ECS)
 
 ---
 
