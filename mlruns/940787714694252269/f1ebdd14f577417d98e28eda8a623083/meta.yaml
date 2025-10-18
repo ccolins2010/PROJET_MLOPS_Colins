@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/User/Documents/Projet_MLOPS/mlruns/940787714694252269/f1ebdd14f577417d98e28eda8a623083/artifacts
+end_time: 1760450457917
+entry_point_name: ''
+experiment_id: '940787714694252269'
+lifecycle_stage: active
+run_id: f1ebdd14f577417d98e28eda8a623083
+run_name: n500_depth=10_mfsqrt_leaf=5_balancedSub_seed42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760450448742
+status: 3
+tags: []
+user_id: User

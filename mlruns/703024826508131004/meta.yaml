@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/Master/Documents/Projet_MLOPS_Final/mlruns/703024826508131004
+creation_time: 1760784967503
+experiment_id: '703024826508131004'
+last_update_time: 1760784967503
+lifecycle_stage: active
+name: random_forest_v2

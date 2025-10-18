@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Master/Documents/Projet_MLOPS_Final/mlruns/545043711333941001/31d24772bc0a4e30850c6f4d0ea3191e/artifacts
+end_time: 1760782845317
+entry_point_name: ''
+experiment_id: '545043711333941001'
+lifecycle_stage: active
+run_id: 31d24772bc0a4e30850c6f4d0ea3191e
+run_name: sanity_shuffle_target
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760782837539
+status: 3
+tags: []
+user_id: Master

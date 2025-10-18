@@ -1,0 +1,37 @@
+artifact_path: file:///c:/Users/User/Documents/Projet_MLOPS/mlruns/987571951511200453/models/m-1680861e94194c50af6b2ade362aaddc/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+is_signature_from_type_hint: false
+mlflow_version: 3.2.0
+model_id: m-1680861e94194c50af6b2ade362aaddc
+model_size_bytes: 9226
+model_uuid: m-1680861e94194c50af6b2ade362aaddc
+prompts: null
+run_id: dacdbdb0909d4c8c80b9da8b7c43ed83
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "credit_lines_outstanding", "required": true},
+    {"type": "double", "name": "loan_amt_outstanding", "required": true}, {"type":
+    "double", "name": "total_debt_outstanding", "required": true}, {"type": "double",
+    "name": "income", "required": true}, {"type": "double", "name": "years_employed",
+    "required": true}, {"type": "double", "name": "fico_score", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-10-15 12:39:23.711737'

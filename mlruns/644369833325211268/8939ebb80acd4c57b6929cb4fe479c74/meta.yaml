@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/User/Documents/Projet_MLOPS/mlruns/644369833325211268/8939ebb80acd4c57b6929cb4fe479c74/artifacts
+end_time: 1760692343247
+entry_point_name: ''
+experiment_id: '644369833325211268'
+lifecycle_stage: active
+run_id: 8939ebb80acd4c57b6929cb4fe479c74
+run_name: C=2.0_pen=l2_solver=lbfgs_seed42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760692338762
+status: 3
+tags: []
+user_id: User
